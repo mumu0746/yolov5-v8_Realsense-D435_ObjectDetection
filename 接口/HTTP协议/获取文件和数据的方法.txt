@@ -1,0 +1,6 @@
+获取文件和数据的方式;
+【获取data.txt】
+curl -X GET -F "file=@/path/to/data.txt" http://127.0.0.1:5000/transfer
+
+【获取三维坐标】
+curl -X GET -F "coordinates=x,y,z" http://127.0.0.1:5000/transfer
