@@ -1,0 +1,11 @@
+train: /home/max/桌面/python/yolov8_every/data/split/images/train  # train images (relative to 'path') 128 images
+val: /home/max/桌面/python/yolov8_every/data/split/images/val  # val images (relative to 'path') 128 images
+test: /home/max/桌面/python/yolov8_every/data/split/images/test # test images (optional)
+ 
+# Classes
+names:
+  0: lv1
+  1: lv2
+  2: lv3
+  3: lv4
+ 

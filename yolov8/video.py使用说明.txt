@@ -1,0 +1,4 @@
+1. 首先强调，该代码只适用于Intel Realsense相机，本项目使用的是其中的D435深度摄像机
+2. 前提是已经得到了训练好了best.pt权重文件，best.pt可以重命名，本项目更名为v8_blue_seg_best.pt
+3. 打开video.py文件，只需要根据实际情况修改22行的权重文件路径，本项目为runs/segment/train/weights/v8_blue_seg_best.pt
+4. 连接好D435摄像机，运行video.py文件，即可打开摄像头，进行检测了
