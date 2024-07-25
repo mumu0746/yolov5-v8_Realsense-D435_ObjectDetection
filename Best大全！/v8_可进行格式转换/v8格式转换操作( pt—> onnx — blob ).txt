@@ -1,0 +1,29 @@
+1. 请确保已经安装好了yolov8的使用环境，比如ultralytics库等等
+
+2. （第一步完成的，这步可以不看）如果没有安装，可以问AI，也可以克隆github的仓库，这里介绍克隆的方法：
+	下载源码：	git clone https://github.com/ultralytics/ultralytics.git
+	安装python包：	pip install -r requirements.txt
+	使用pip安装：	pip install ultralytics
+	测试是否安装成功：  先输入python，进入编译器，接着输入import ultralytics 和  ultralytics.checks()
+			如果显示Ultralytics YOLOv8.2.16 🚀 Python-3.8.19 torch-2.3.0 CUDA:0 (NVIDIA GeForce RTX 4060, 7932MiB)  Setup complete ✅ (8 CPUs, 31.1 GB RAM, 228.2/456.3 GB disk) 则表示安装成功
+
+3. pt转onnx：yolo export model=/**/weights/best.pt format=onnx opset=12
+       注意：修改你对应的pt文件路径即可，即修改“/**/weights/best.pt”部分
+
+4. onnx转bolb：
+      4.1 在conda的python环境里面安装 tensorrt 和 blobconverter：
+      		sudo apt update
+      		sudo apt install python3-pip   # 安装pip（如果还未安装）
+      		pip3 install nvidia-pyindex
+      		pip3 install nvidia-tensorrt
+      		python3 -c "import tensorrt as trt; print(trt.__version__)"    # 检查安装，如果出来版本号，说明安装成功
+      		sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub    # 添加 NVIDIA包仓库
+		sudo add-apt-repository "deb https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/ /"    # 添加 NVIDIA包仓库
+		
+		pip install blobconverter
+		whereis blobconverter     # 如果显示文件夹路径，说明初步安装成功
+		python3 -m blobconverter --help    # 如果显示完整的命令行参数列表，说明 blobconverter安装成功
+
+      4.2 python3 -m blobconverter --onnx /**/weights/**.onnx -sh 6 -o . --optimizer-params "scale=255 --reverse_input_channel"
+               注意：同样修改onnx文件的路径，即修改“/**/weights/**.onnx”部分
+
