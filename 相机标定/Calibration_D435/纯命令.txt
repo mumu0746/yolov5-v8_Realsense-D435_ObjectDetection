@@ -1,0 +1,3 @@
+roslaunch realsense2_camera rs_camera_vins.launch
+
+rosrun camera_calibration cameracalibrator.py --size 8x6 --square 0.03 image:=/camera/color/image_raw camera:=/camera/color --no-service-check

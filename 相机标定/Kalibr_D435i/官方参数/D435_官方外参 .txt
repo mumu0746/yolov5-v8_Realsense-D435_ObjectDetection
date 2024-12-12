@@ -1,0 +1,128 @@
+Extrinsic Parameters:
+Extrinsic from "Depth"	  To	  "Depth" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0  
+
+Extrinsic from "Depth"	  To	  "Color" :
+ Rotation Matrix:
+   0.999979         0.000955314      0.00648388    
+  -0.000933155      0.999994        -0.00341974    
+  -0.00648711       0.00341362       0.999973      
+
+ Translation Vector: 0.0149325877428055  1.05529170468799e-05  0.000205440825084224  
+
+Extrinsic from "Depth"	  To	  "Infrared 1" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0  
+
+Extrinsic from "Depth"	  To	  "Infrared 2" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: -0.0498841851949692  0  0  
+
+Extrinsic from "Color"	  To	  "Depth" :
+ Rotation Matrix:
+   0.999979        -0.000933155     -0.00648711    
+   0.000955314      0.999994         0.00341362    
+   0.00648388      -0.00341974       0.999973      
+
+ Translation Vector: -0.0149309244006872  -2.55194590863539e-05  -0.00030222034547478  
+
+Extrinsic from "Color"	  To	  "Color" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0  
+
+Extrinsic from "Color"	  To	  "Infrared 1" :
+ Rotation Matrix:
+   0.999979        -0.000933155     -0.00648711    
+   0.000955314      0.999994         0.00341362    
+   0.00648388      -0.00341974       0.999973      
+
+ Translation Vector: -0.0149309244006872  -2.55194590863539e-05  -0.00030222034547478  
+
+Extrinsic from "Color"	  To	  "Infrared 2" :
+ Rotation Matrix:
+   0.999979        -0.000933155     -0.00648711    
+   0.000955314      0.999994         0.00341362    
+   0.00648388      -0.00341974       0.999973      
+
+ Translation Vector: -0.0648151114583015  -2.55194590863539e-05  -0.00030222034547478  
+
+Extrinsic from "Infrared 1"	  To	  "Depth" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0  
+
+Extrinsic from "Infrared 1"	  To	  "Color" :
+ Rotation Matrix:
+   0.999979         0.000955314      0.00648388    
+  -0.000933155      0.999994        -0.00341974    
+  -0.00648711       0.00341362       0.999973      
+
+ Translation Vector: 0.0149325877428055  1.05529170468799e-05  0.000205440825084224  
+
+Extrinsic from "Infrared 1"	  To	  "Infrared 1" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0  
+
+Extrinsic from "Infrared 1"	  To	  "Infrared 2" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: -0.0498841851949692  0  0  
+
+Extrinsic from "Infrared 2"	  To	  "Depth" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0.0498841851949692  0  0  
+
+Extrinsic from "Infrared 2"	  To	  "Color" :
+ Rotation Matrix:
+   0.999979         0.000955314      0.00648388    
+  -0.000933155      0.999994        -0.00341974    
+  -0.00648711       0.00341362       0.999973      
+
+ Translation Vector: 0.0648157000541687  -3.59967598342337e-05  -0.000118163239676505  
+
+Extrinsic from "Infrared 2"	  To	  "Infrared 1" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0.0498841851949692  0  0  
+
+Extrinsic from "Infrared 2"	  To	  "Infrared 2" :
+ Rotation Matrix:
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Translation Vector: 0  0  0 

@@ -1,0 +1,12 @@
+【网址】
+https://calib.io/pages/camera-calibration-pattern-generator
+
+【参数说明】
+# Board Width [mm]	表示打印纸张的宽度
+# Board Height [mm]	表示打印纸张的高度
+# Rows			棋盘格的行数
+# Columns		棋盘格的列数
+# Checker Width [mm]	每个方块的边长
+
+【获取PDF方法】
+ 参数设置好后，点击棋盘格下方“Save calibration board as PDF”即可

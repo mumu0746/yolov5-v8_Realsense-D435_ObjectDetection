@@ -1,0 +1,362 @@
+Intrinsic of "Depth" / 256x144 / {Z16}
+  Width:      	256
+  Height:     	144
+  PPX:        	122.447692871094
+  PPY:        	67.7925109863281
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	22.76 x 12.92
+
+ Intrinsic of "Depth" / 424x240 / {Z16}
+  Width:      	424
+  Height:     	240
+  PPX:        	210.160797119141
+  PPY:        	118.606269836426
+  Fx:         	210.679916381836
+  Fy:         	210.679916381836
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Depth" / 480x270 / {Z16}
+  Width:      	480
+  Height:     	270
+  PPX:        	237.917877197266
+  PPY:        	133.412200927734
+  Fx:         	238.505554199219
+  Fy:         	238.505554199219
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Depth" / 640x360 / {Z16}
+  Width:      	640
+  Height:     	360
+  PPX:        	317.223846435547
+  PPY:        	177.896255493164
+  Fx:         	318.007415771484
+  Fy:         	318.007415771484
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Depth" / 640x480 / {Z16}
+  Width:      	640
+  Height:     	480
+  PPX:        	316.668609619141
+  PPY:        	237.452743530273
+  Fx:         	381.60888671875
+  Fy:         	381.60888671875
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	79.96 x 64.33
+
+ Intrinsic of "Depth" / 848x100 / {Z16}
+  Width:      	848
+  Height:     	100
+  PPX:        	420.321594238281
+  PPY:        	47.2125396728516
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 13.53
+
+ Intrinsic of "Depth" / 848x480 / {Z16}
+  Width:      	848
+  Height:     	480
+  PPX:        	420.321594238281
+  PPY:        	237.212539672852
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Depth" / 1280x720 / {Z16}
+  Width:      	1280
+  Height:     	720
+  PPX:        	634.447692871094
+  PPY:        	355.792510986328
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Color" / 320x180 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	320
+  Height:     	180
+  PPX:        	162.515319824219
+  PPY:        	91.0311050415039
+  Fx:         	229.069458007812
+  Fy:         	228.811187744141
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.86 x 42.94
+
+ Intrinsic of "Color" / 320x240 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	320
+  Height:     	240
+  PPX:        	163.353744506836
+  PPY:        	121.374809265137
+  Fx:         	305.425964355469
+  Fy:         	305.081573486328
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	55.29 x 42.94
+
+ Intrinsic of "Color" / 424x240 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	424
+  Height:     	240
+  PPX:        	215.353744506836
+  PPY:        	121.374809265137
+  Fx:         	305.425933837891
+  Fy:         	305.081573486328
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.52 x 42.94
+
+ Intrinsic of "Color" / 640x360 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	640
+  Height:     	360
+  PPX:        	325.030639648438
+  PPY:        	182.062210083008
+  Fx:         	458.138916015625
+  Fy:         	457.622375488281
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.86 x 42.94
+
+ Intrinsic of "Color" / 640x480 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	640
+  Height:     	480
+  PPX:        	326.707489013672
+  PPY:        	242.749618530273
+  Fx:         	610.851928710938
+  Fy:         	610.163146972656
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	55.29 x 42.94
+
+ Intrinsic of "Color" / 848x480 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	848
+  Height:     	480
+  PPX:        	430.707489013672
+  PPY:        	242.749618530273
+  Fx:         	610.851867675781
+  Fy:         	610.163146972656
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.52 x 42.94
+
+ Intrinsic of "Color" / 960x540 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	960
+  Height:     	540
+  PPX:        	487.545959472656
+  PPY:        	273.093322753906
+  Fx:         	687.208374023438
+  Fy:         	686.433532714844
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.86 x 42.94
+
+ Intrinsic of "Color" / 1280x720 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	1280
+  Height:     	720
+  PPX:        	650.061279296875
+  PPY:        	364.124420166016
+  Fx:         	916.27783203125
+  Fy:         	915.244750976562
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.86 x 42.94
+
+ Intrinsic of "Color" / 1920x1080 / {YUYV/RGB8/BGR8/RGBA8/BGRA8/Y8}
+  Width:      	1920
+  Height:     	1080
+  PPX:        	975.091918945312
+  PPY:        	546.186645507812
+  Fx:         	1374.41674804688
+  Fy:         	1372.86706542969
+  Distortion: 	Inverse Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	69.86 x 42.94
+
+ Intrinsic of "Infrared 1" / 424x240 / {Y8}
+  Width:      	424
+  Height:     	240
+  PPX:        	210.160797119141
+  PPY:        	118.606269836426
+  Fx:         	210.679916381836
+  Fy:         	210.679916381836
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Infrared 1" / 480x270 / {Y8}
+  Width:      	480
+  Height:     	270
+  PPX:        	237.917877197266
+  PPY:        	133.412200927734
+  Fx:         	238.505554199219
+  Fy:         	238.505554199219
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 1" / 640x360 / {Y8}
+  Width:      	640
+  Height:     	360
+  PPX:        	317.223846435547
+  PPY:        	177.896255493164
+  Fx:         	318.007415771484
+  Fy:         	318.007415771484
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 1" / 640x480 / {Y8}
+  Width:      	640
+  Height:     	480
+  PPX:        	316.668609619141
+  PPY:        	237.452743530273
+  Fx:         	381.60888671875
+  Fy:         	381.60888671875
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	79.96 x 64.33
+
+ Intrinsic of "Infrared 1" / 848x100 / {Y8}
+  Width:      	848
+  Height:     	100
+  PPX:        	420.321594238281
+  PPY:        	47.2125396728516
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 13.53
+
+ Intrinsic of "Infrared 1" / 848x480 / {Y8}
+  Width:      	848
+  Height:     	480
+  PPX:        	420.321594238281
+  PPY:        	237.212539672852
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Infrared 1" / 1280x720 / {Y8}
+  Width:      	1280
+  Height:     	720
+  PPX:        	634.447692871094
+  PPY:        	355.792510986328
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 1" / 1280x800 / {Y8}
+  Width:      	1280
+  Height:     	800
+  PPX:        	634.447692871094
+  PPY:        	395.792510986328
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 64.33
+
+ Intrinsic of "Infrared 2" / 424x240 / {Y8}
+  Width:      	424
+  Height:     	240
+  PPX:        	210.160797119141
+  PPY:        	118.606269836426
+  Fx:         	210.679916381836
+  Fy:         	210.679916381836
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Infrared 2" / 480x270 / {Y8}
+  Width:      	480
+  Height:     	270
+  PPX:        	237.917877197266
+  PPY:        	133.412200927734
+  Fx:         	238.505554199219
+  Fy:         	238.505554199219
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 2" / 640x360 / {Y8}
+  Width:      	640
+  Height:     	360
+  PPX:        	317.223846435547
+  PPY:        	177.896255493164
+  Fx:         	318.007415771484
+  Fy:         	318.007415771484
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 2" / 640x480 / {Y8}
+  Width:      	640
+  Height:     	480
+  PPX:        	316.668609619141
+  PPY:        	237.452743530273
+  Fx:         	381.60888671875
+  Fy:         	381.60888671875
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	79.96 x 64.33
+
+ Intrinsic of "Infrared 2" / 848x100 / {Y8}
+  Width:      	848
+  Height:     	100
+  PPX:        	420.321594238281
+  PPY:        	47.2125396728516
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 13.53
+
+ Intrinsic of "Infrared 2" / 848x480 / {Y8}
+  Width:      	848
+  Height:     	480
+  PPX:        	420.321594238281
+  PPY:        	237.212539672852
+  Fx:         	421.359832763672
+  Fy:         	421.359832763672
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.33
+
+ Intrinsic of "Infrared 2" / 1280x720 / {Y8}
+  Width:      	1280
+  Height:     	720
+  PPX:        	634.447692871094
+  PPY:        	355.792510986328
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 59.02
+
+ Intrinsic of "Infrared 2" / 1280x800 / {Y8}
+  Width:      	1280
+  Height:     	800
+  PPX:        	634.447692871094
+  PPY:        	395.792510986328
+  Fx:         	636.014831542969
+  Fy:         	636.014831542969
+  Distortion: 	Brown Conrady
+  Coeffs:     	0  	0  	0  	0  	0  
+  FOV (deg):  	90.36 x 64.33

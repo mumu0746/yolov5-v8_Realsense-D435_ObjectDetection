@@ -1,0 +1,23 @@
+【环境要求】背景最好是纯白，不可以太黑！！！前后有可移动的距离光线要好一些，能看清标定板
+
+# 启动D435i
+roslaunch realsense2_camera rs_camera_vins.launch  	
+
+# 再打开一个终端，运行camera_calibration
+# 其中8x6，是去掉一个长和宽之后的尺寸，x是英文字母
+# 0.03表示每个各自的边长为0.03m
+rosrun camera_calibration cameracalibrator.py --size 8x6 --square 0.027 image:=/camera/color/image_raw camera:=/camera/color --no-service-check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
